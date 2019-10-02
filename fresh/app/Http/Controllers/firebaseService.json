@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "agrofarm-cd23b",
+  "private_key_id": "a3359f17d2ee9c0822bda804df184f5a8e258add",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDK9SZtlT1a6pLK\nfVzR8ABusS9OugA20C53UcQ2o+YLM3hLxAEnjC31Khzn0OHdO3M+u8I2YaDedSR0\nNItA6hM7vDg4q5MwMwa6nebogs1rP4Z+bEugOfNkAUTQY9q0DIG6/gVo6l9LI6gt\n3pt85oRxQG3nlWB3IYAwN4SdFDQDWEnxpVoZ4+DSMWweSAt68gmoE2yhVpHrwoeB\n+xbc/oFecgw8aKIjthsD1qxBsjMVqF09Om/rmNEN5riQveTNkdoAGFd9JfD7qjF5\nS/Ip6W6RQ8pSSr15q7F2E+6djB2SzIuFd3dKa5xurfT/GFlH8lMNJp1c20rODLVz\n8JHIFxC7AgMBAAECggEAAgujdgJFioeHsDPAPjtpfbQacnQscWD6vugbjqNrO5yq\nrzTMAC6I/goNHYb858JkIHM6+1pTiTpsAiHPb3mMdRMqC+QqyRcSj8nsnFZJJLYQ\nsHB9+KDs44qhu2nuN9dSbWSHAG4wRK0Y0lGGhqU6G3wXP3jBbqHvTU0Z8I1WEtyJ\n0c2zgGd/fx+f0SHihff+PIAMzgeSs9jo1eeJe4mobANsD4h8pnrTn3Af3fxagEJP\ncqbG1hhi4K9P4FhtDASTmJLH713FLrlT4Wl/hwXlkvqjgCaPBFBlXFLCxMnwZwwQ\n+IfYPgWf5MfmGMB8B2FBdQf8hIaK71/PX09NTjgPOQKBgQD4Gnx6iuIBcf2LW3Lb\nqtwRT+WNXI5DCJtiZCGcARAnI26etzlbq0+6cxEke+PoXedcyy7ib/Dg8jI+FOoK\n//996SmBJ2jiKJ6e+AMIv6j94lKpXWNeIc2X7bUSCj0+zNDcG7NFxNpsaYj2cSo7\nlYVC+pyzDeoDJoe6UQ1CKJ+iuQKBgQDRatJS0wdWUTvYt1IfZa/0qjx7b0U2402j\nip3V6aLJ+4KG7KbGMUl2XIupcyonmQOWEXMK6pzm+PFOPOvsPC3uWEnqoETjOSuB\n8JGbgJE2yZpRSuy71OXIot+BFgmcsgjbLDY7Q1d4V2SbFJWjRcq6Tg4QF+HKsLn8\nDw209+NlEwKBgQCUz+Yr5lOrBEFMrhxVb8UxyRdp08Msp+PzfxW9qdGTeCgooMOR\nnU5kChKVLI5F2NUmDmTfwr7bXcoO/KJo2KXZUtnnMskxJaYGucGwJK1rIq3sEizA\n0EutvhFmcafMnDMGYsMDrRBKCH7zOmtXc9aLlyAYMddT7m9orKbkMNOXWQKBgHDN\nDk9otkoLZaYdUNHyry2lyQBf9jNTio1t7Ai+WV5c6HkO3eJhyAVGYkA69Vjw9dqO\nuZ4Gs89CBpCzBg1wePkqe14zSAfw0nuifnv5a77MJyBksFGYotFI0gUxPqo1x8lu\n7iNL6cC7qkhSdSvGOyXRR4fppUjNmtCntyVkZQsbAoGAK9bDXXWN1ZnyIW94/78H\nWrPwRqqt8RjQbHtwULYGmLaXbAxq5PZVbqk3Wi+CB0zCocZY0zD/0hLNuEvJpRe3\nQr07CQ9Cy/O8I6Tc82yCnUUpak7sw31PfNWoQ1H1uPTFFOWqYH84RB2y+eCCuW6B\nzgUTblUQOlQnqPrvLCg3qRk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-7qa34@agrofarm-cd23b.iam.gserviceaccount.com",
+  "client_id": "105701462167348308793",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-7qa34%40agrofarm-cd23b.iam.gserviceaccount.com"
+}
